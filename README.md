@@ -14,7 +14,7 @@
   
 <p align="center">  
   <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
-    <img alt="Phoenix-MD-Bot" width="350" https://photos.app.goo.gl/hf7ysVr8xTaLzcJs8" style="border-radius: 15px; border: 2px solid #F710B1;">
+    <img alt="Phoenix-MD-Bot" width="350" https://i.postimg.cc/4xrFDjGC/Screenshot-20260728-032831-Photos.png" style="border-radius: 15px; border: 2px solid #F710B1;">
   </a> 
 </p>
 
